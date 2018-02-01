@@ -1,9 +1,5 @@
-com.marklogic.spring.batch.bind
 com.marklogic.spring.batch.columnmap
 com.marklogic.spring.batch.config
-com.marklogic.spring.batch.core
-com.marklogic.spring.batch.core.launch.support
-com.marklogic.spring.batch.core.repository.dao
 com.marklogic.spring.batch.item.listener
 com.marklogic.spring.batch.item.processor
 com.marklogic.spring.batch.item.processor.support
